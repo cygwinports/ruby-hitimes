@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-hitimes"
-VERSION=1.2.4
+VERSION=1.2.6
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby high resolution timer library"
